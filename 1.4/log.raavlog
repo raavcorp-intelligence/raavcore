@@ -1,0 +1,506 @@
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-17 15:13:44.296917
+>>> Command: connection succesful at 2019-05-17 15:13:44.305385
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-17 15:14:34.143330
+>>> Command: connection succesful at 2019-05-17 15:14:34.156974
+>>> Command: offline: True at 2019-05-17 15:14:34.158002
+>>> Command: Starting Mainline at 2019-05-17 15:14:57.602512
+>>> Command: Testing from memory at 2019-05-17 15:14:57.604508
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-17 15:16:10.063369
+>>> Command: connection succesful at 2019-05-17 15:16:10.074092
+>>> Command: offline: True at 2019-05-17 15:16:10.080627
+>>> Command: Starting Mainline at 2019-05-17 15:16:25.325981
+>>> Command: Starting Mainline at 2019-05-17 15:16:34.329723
+>>> Command: Testing from memory at 2019-05-17 15:16:34.331800
+>>> Command: Starting Mainline at 2019-05-17 15:18:26.671996
+>>> Command: Testing from memory at 2019-05-17 15:18:26.673992
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-17 15:20:06.217592
+>>> Command: connection succesful at 2019-05-17 15:20:06.225831
+>>> Command: offline: True at 2019-05-17 15:20:06.232791
+>>> Command: Starting Mainline at 2019-05-17 15:20:37.021396
+>>> Command: Starting Mainline at 2019-05-17 15:20:45.402971
+>>> Command: Testing from memory at 2019-05-17 15:20:45.404968
+>>> Command: Found in memory: False at 2019-05-17 15:20:45.406410
+>>> Command: Starting Mainline at 2019-05-17 15:23:59.075383
+>>> Command: Testing from memory at 2019-05-17 15:23:59.078374
+>>> Command: Found in memory: False at 2019-05-17 15:23:59.084420
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-17 15:24:04.434571
+>>> Command: connection succesful at 2019-05-17 15:24:04.451858
+>>> Command: offline: True at 2019-05-17 15:24:04.452899
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-17 15:24:12.060480
+>>> Command: connection succesful at 2019-05-17 15:24:12.068917
+>>> Command: offline: True at 2019-05-17 15:24:12.070912
+>>> Command: Starting Mainline at 2019-05-17 15:24:28.575094
+>>> Command: Testing from memory at 2019-05-17 15:24:28.577087
+>>> Command: Found in memory: False at 2019-05-17 15:24:28.580703
+>>> Command: Found from memory: False at 2019-05-17 15:24:28.589175
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 08:55:32.566694
+>>> Command: offline: False at 2019-05-18 08:55:33.611272
+>>> Command: Starting Mainline at 2019-05-18 08:55:45.705261
+>>> Command: Starting Mainline at 2019-05-18 08:55:51.920924
+>>> Command: Testing from memory at 2019-05-18 08:55:51.922896
+>>> Command: Searching Memory for: >>> at 2019-05-18 08:55:51.930874
+>>> Command: No Memory found for: >>> at 2019-05-18 08:55:51.936858
+>>> Command: Found in memory: False at 2019-05-18 08:55:51.945834
+>>> Command: False was not able to find answer from memory at 2019-05-18 08:55:51.946831
+>>> Command: Found from memory: False at 2019-05-18 08:55:51.947829
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 08:56:25.202047
+>>> Command: offline: False at 2019-05-18 08:56:25.308760
+>>> Command: Starting Mainline at 2019-05-18 08:57:02.000333
+>>> Command: Testing from memory at 2019-05-18 08:57:02.002326
+>>> Command: Searching Memory for: >>> at 2019-05-18 08:57:02.009309
+>>> Command: No Memory found for: >>> at 2019-05-18 08:57:02.009309
+>>> Command: Found in memory: False at 2019-05-18 08:57:02.010305
+>>> Command: False was not able to find answer from memory at 2019-05-18 08:57:02.010305
+>>> Command: Found from memory: False at 2019-05-18 08:57:02.011302
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 08:59:05.899946
+>>> Command: offline: False at 2019-05-18 08:59:06.002671
+>>> Command: Starting Mainline at 2019-05-18 08:59:15.640626
+>>> Command: Testing from memory at 2019-05-18 08:59:15.642619
+>>> Command: Searching Memory for: >>> at 2019-05-18 08:59:15.643615
+>>> Command: No Memory found for: >>> at 2019-05-18 08:59:15.643615
+>>> Command: Found in memory: False at 2019-05-18 08:59:15.644613
+>>> Command: False was not able to find answer from memory at 2019-05-18 08:59:15.644613
+>>> Command: Found from memory: False at 2019-05-18 08:59:15.645645
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 09:03:49.868380
+>>> Command: offline: False at 2019-05-18 09:03:49.988060
+>>> Command: Starting Mainline at 2019-05-18 09:04:03.882049
+>>> Command: Testing from memory at 2019-05-18 09:04:03.884041
+>>> Command: Searching Memory for: >>> at 2019-05-18 09:04:03.890026
+>>> Command: No Memory found for: >>> at 2019-05-18 09:04:03.895047
+>>> Command: Found in memory: False at 2019-05-18 09:04:03.900996
+>>> Command: False was not able to find answer from memory at 2019-05-18 09:04:03.901994
+>>> Command: Found from memory: False at 2019-05-18 09:04:03.901994
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 10:28:28.467965
+>>> Command: offline: False at 2019-05-18 10:28:28.627571
+>>> Command: Starting Mainline at 2019-05-18 10:28:48.263222
+>>> Command: Testing from memory at 2019-05-18 10:28:48.269232
+>>> Command: Searching Memory for: >>> at 2019-05-18 10:28:48.281174
+>>> Command: No Memory found for: >>> at 2019-05-18 10:28:48.290150
+>>> Command: Found in memory: False at 2019-05-18 10:28:48.304113
+>>> Command: False was not able to find answer from memory at 2019-05-18 10:28:48.305110
+>>> Command: Found from memory: False at 2019-05-18 10:28:48.306389
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 10:29:43.166806
+>>> Command: offline: False at 2019-05-18 10:29:43.324885
+>>> Command: Starting Mainline at 2019-05-18 10:29:52.039021
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 10:31:06.504903
+>>> Command: offline: False at 2019-05-18 10:31:06.672419
+>>> Command: Starting Mainline at 2019-05-18 10:31:18.143497
+>>> Command: Testing from memory at 2019-05-18 10:31:18.145490
+>>> Command: Searching Memory for: >>>HOW ARE YOU at 2019-05-18 10:31:18.152473
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 10:32:44.962259
+>>> Command: offline: False at 2019-05-18 10:32:45.085239
+>>> Command: Starting Mainline at 2019-05-18 10:33:00.191527
+>>> Command: Testing from memory at 2019-05-18 10:33:00.193523
+>>> Command: Searching Memory for: >>>HOW ARE YOU at 2019-05-18 10:33:00.200544
+>>> Command: Found: >>>HOW ARE YOU In Memory at the: 5 slot at 2019-05-18 10:33:00.207483
+>>> Command: Found in memory: 5 at 2019-05-18 10:33:00.215468
+>>> Command: True was able to find answer from memory at 2019-05-18 10:33:03.689502
+>>> Command: Starting Mainline at 2019-05-18 10:33:58.827133
+>>> Command: Testing from memory at 2019-05-18 10:33:58.829126
+>>> Command: Searching Memory for: >>>HOW ARE YOU at 2019-05-18 10:33:58.832121
+>>> Command: Found: >>>HOW ARE YOU In Memory at the: 5 slot at 2019-05-18 10:33:58.832121
+>>> Command: Found in memory: 5 at 2019-05-18 10:33:58.833116
+>>> Command: True was able to find answer from memory at 2019-05-18 10:34:01.836147
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 10:34:04.625783
+>>> Command: offline: False at 2019-05-18 10:34:04.766580
+>>> Command: Starting Mainline at 2019-05-18 10:34:13.406348
+>>> Command: Testing from memory at 2019-05-18 10:34:13.410337
+>>> Command: Searching Memory for: >>>HOW ARE YOU at 2019-05-18 10:34:13.421308
+>>> Command: Found: >>>HOW ARE YOU In Memory at the: 5 slot at 2019-05-18 10:34:13.430283
+>>> Command: Found in memory: 5 at 2019-05-18 10:34:13.442251
+>>> Command: True was able to find answer from memory at 2019-05-18 10:34:18.283127
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 10:34:23.221261
+>>> Command: offline: False at 2019-05-18 10:34:23.835813
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 10:46:56.241246
+>>> Command: offline: False at 2019-05-18 10:46:56.464400
+>>> Command: Starting Mainline at 2019-05-18 10:47:19.399904
+>>> Command: Testing from memory at 2019-05-18 10:47:19.402513
+>>> Command: Searching Memory for: >>>HOW ARE YOU at 2019-05-18 10:47:19.410385
+>>> Command: Found: >>>HOW ARE YOU In Memory at the: 5 slot at 2019-05-18 10:47:19.411384
+>>> Command: Found in memory: 5 at 2019-05-18 10:47:19.425521
+>>> Command: True was able to find answer from memory at 2019-05-18 10:47:24.463156
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 20:59:20.649633
+>>> Command: offline: False at 2019-05-18 20:59:20.856496
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 21:00:05.302690
+>>> Command: offline: False at 2019-05-18 21:00:05.520305
+>>> Command: Starting Mainline at 2019-05-18 21:00:30.089888
+>>> Command: Testing from memory at 2019-05-18 21:00:30.101856
+>>> Command: Searching Memory for: >>>WHO WAS THE 3RD PRESIDENT at 2019-05-18 21:00:31.064038
+>>> Command: No Memory found for: >>>WHO WAS THE 3RD PRESIDENT at 2019-05-18 21:00:31.064038
+>>> Command: Found in memory: False at 2019-05-18 21:00:31.065037
+>>> Command: False was not able to find answer from memory at 2019-05-18 21:00:31.065037
+>>> Command: Found from memory: False at 2019-05-18 21:00:31.066033
+>>> Command: Searching Memory for: >>>WHO WAS THE 3RD PRESIDENT at 2019-05-18 21:00:35.829341
+>>> Command: No Memory found for: >>>WHO WAS THE 3RD PRESIDENT at 2019-05-18 21:00:35.835326
+>>> Command: Found in memory: False at 2019-05-18 21:00:35.842309
+>>> Command: False was not able to find answer from memory at 2019-05-18 21:00:35.848293
+>>> Command: adding Thomas Jefferson (from March 4, 1801 to March 4, 1809) and who was the 3rd president to memory at 2019-05-18 21:00:35.848293
+>>> Command: Starting Mainline at 2019-05-18 21:04:48.892133
+>>> Command: Testing from memory at 2019-05-18 21:04:48.894129
+>>> Command: Searching Memory for: >>>WHAT IS APPLE at 2019-05-18 21:04:48.895125
+>>> Command: No Memory found for: >>>WHAT IS APPLE at 2019-05-18 21:04:48.896125
+>>> Command: Found in memory: False at 2019-05-18 21:04:48.896125
+>>> Command: False was not able to find answer from memory at 2019-05-18 21:04:48.897122
+>>> Command: Found from memory: False at 2019-05-18 21:04:48.897122
+>>> Command: Searching Memory for: >>>WHAT IS APPLE at 2019-05-18 21:04:59.093234
+>>> Command: No Memory found for: >>>WHAT IS APPLE at 2019-05-18 21:04:59.094231
+>>> Command: Found in memory: False at 2019-05-18 21:04:59.095228
+>>> Command: False was not able to find answer from memory at 2019-05-18 21:04:59.095228
+>>> Command: adding $189 (AAPL | NASDAQ | Friday 4:00:00 pm EDT | 29 hrs ago) and what is apple to memory at 2019-05-18 21:04:59.096225
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 21:07:49.492686
+>>> Command: offline: False at 2019-05-18 21:07:49.613363
+>>> Command: Starting Mainline at 2019-05-18 21:08:12.660101
+>>> Command: Testing from memory at 2019-05-18 21:08:12.662093
+>>> Command: Searching Memory for: >>>WHAT IS CINNAMON at 2019-05-18 21:08:12.668076
+>>> Command: No Memory found for: >>>WHAT IS CINNAMON at 2019-05-18 21:08:12.678052
+>>> Command: Found in memory: False at 2019-05-18 21:08:12.685031
+>>> Command: False was not able to find answer from memory at 2019-05-18 21:08:12.685031
+>>> Command: Found from memory: False at 2019-05-18 21:08:12.686028
+>>> Command: Searching Memory for: >>>WHAT IS CINNAMON at 2019-05-18 21:08:21.047684
+>>> Command: No Memory found for: >>>WHAT IS CINNAMON at 2019-05-18 21:08:21.047684
+>>> Command: Found in memory: False at 2019-05-18 21:08:21.053668
+>>> Command: False was not able to find answer from memory at 2019-05-18 21:08:21.059652
+>>> Command: adding serving size 1 tbsp (8 g)
+total calories 19 | fat calories 1
+% daily value^* | 
+ total fat 97 mg | 0%
+ saturated fat 27 mg | 0%
+ trans fat 0 g | 
+ cholesterol 0 g | 0%
+ sodium 780 µg | 0%
+ total carbohydrates 6 g | 2%
+ dietary fiber 4 g | 17%
+ sugar 169 mg | 
+ protein 311 mg | 1%
+ calcium 8% | iron 4% 
+ vitamin E 1% | niacin 1% 
+ vitamin B6 1% | magnesium 1% 
+ zinc 1% | 
+*percent daily values are based on a 2000 calorie diet and what is cinnamon to memory at 2019-05-18 21:08:21.064637
+>>> Command: Searching Memory for: >>>WHAT IS CINNAMON at 2019-05-18 21:08:22.375920
+>>> Command: No Memory found for: >>>WHAT IS CINNAMON at 2019-05-18 21:08:22.376816
+>>> Command: Found in memory: False at 2019-05-18 21:08:22.381802
+>>> Command: False was not able to find answer from memory at 2019-05-18 21:08:22.387786
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 21:08:27.466651
+>>> Command: offline: False at 2019-05-18 21:08:27.567381
+>>> Command: Starting Mainline at 2019-05-18 21:08:48.435874
+>>> Command: Testing from memory at 2019-05-18 21:08:48.437864
+>>> Command: Searching Memory for: >>>WHAT IS FORTNITE at 2019-05-18 21:08:48.449833
+>>> Command: Found: >>>WHAT IS FORTNITE In Memory at the: 2 slot at 2019-05-18 21:08:48.460803
+>>> Command: Found in memory: 2 at 2019-05-18 21:08:48.467818
+>>> Command: True was able to find answer from memory at 2019-05-18 21:08:55.022101
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 21:09:03.147898
+>>> Command: offline: False at 2019-05-18 21:09:03.248628
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 21:09:09.762993
+>>> Command: offline: False at 2019-05-18 21:09:09.857739
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 21:11:06.441753
+>>> Command: offline: False at 2019-05-18 21:11:06.554435
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 21:11:12.367077
+>>> Command: offline: False at 2019-05-18 21:11:12.474790
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 21:11:18.146723
+>>> Command: offline: False at 2019-05-18 21:11:18.272353
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 21:11:24.537847
+>>> Command: offline: False at 2019-05-18 21:11:24.634588
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 21:11:44.256279
+>>> Command: offline: False at 2019-05-18 21:11:44.359002
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 21:11:49.096129
+>>> Command: offline: False at 2019-05-18 21:11:49.190874
+>>> Command: Starting Mainline at 2019-05-18 21:12:02.565978
+>>> Command: Testing from memory at 2019-05-18 21:12:02.567970
+>>> Command: Searching Memory for: >>>EXIT at 2019-05-18 21:12:02.573952
+>>> Command: No Memory found for: >>>EXIT at 2019-05-18 21:12:02.579936
+>>> Command: Found in memory: False at 2019-05-18 21:12:02.585957
+>>> Command: False was not able to find answer from memory at 2019-05-18 21:12:02.586920
+>>> Command: Found from memory: False at 2019-05-18 21:12:02.586920
+>>> Command: Searching Memory for: >>>EXIT at 2019-05-18 21:12:10.967859
+>>> Command: No Memory found for: >>>EXIT at 2019-05-18 21:12:10.967859
+>>> Command: Found in memory: False at 2019-05-18 21:12:10.974839
+>>> Command: False was not able to find answer from memory at 2019-05-18 21:12:10.983858
+>>> Command: adding 1 | noun | an opening that permits escape or release
+2 | noun | euphemistic expressions for death
+3 | noun | the act of going out
+4 | noun | any of the designated places at which a vehicle may leave a major road
+5 | verb | move out of or depart from
+6 | verb | lose the lead
+7 | verb | pass from physical life and lose all bodily attributes and functions necessary to sustain life
+(7 meanings) and exit to memory at 2019-05-18 21:12:10.989799
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 21:12:22.164462
+>>> Command: offline: False at 2019-05-18 21:12:22.275136
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 21:12:28.291225
+>>> Command: offline: False at 2019-05-18 21:12:28.397938
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 21:12:49.250143
+>>> Command: offline: False at 2019-05-18 21:12:49.351871
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 21:13:07.168456
+>>> Command: offline: False at 2019-05-18 21:13:07.264200
+>>> Command: Starting Mainline at 2019-05-18 21:13:34.769737
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 21:14:04.530902
+>>> Command: offline: False at 2019-05-18 21:14:04.649584
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 21:14:09.822649
+>>> Command: offline: False at 2019-05-18 21:14:09.931359
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 21:14:33.225465
+>>> Command: offline: False at 2019-05-18 21:14:33.322204
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 21:14:36.037994
+>>> Command: offline: False at 2019-05-18 21:14:36.126819
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 21:14:44.989441
+>>> Command: offline: False at 2019-05-18 21:14:46.192965
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-18 21:14:55.237515
+>>> Command: offline: False at 2019-05-18 21:14:55.342270
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-19 13:50:32.228323
+>>> Command: connection succesful at 2019-05-19 13:50:32.237639
+>>> Command: offline: True at 2019-05-19 13:50:32.238671
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-19 13:50:51.556989
+>>> Command: connection succesful at 2019-05-19 13:50:51.566895
+>>> Command: offline: True at 2019-05-19 13:50:51.570124
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-19 13:52:03.729580
+>>> Command: connection succesful at 2019-05-19 13:52:03.738096
+>>> Command: offline: True at 2019-05-19 13:52:03.746253
+>>> Command: Starting Mainline at 2019-05-19 13:52:14.712961
+>>> Command: Starting Mainline at 2019-05-19 13:52:17.710570
+>>> Command: Testing from memory at 2019-05-19 13:52:17.712112
+>>> Command: Searching Memory for: >>> at 2019-05-19 13:52:17.713112
+>>> Command: No Memory found for: >>> at 2019-05-19 13:52:17.727388
+>>> Command: Found in memory: False at 2019-05-19 13:52:17.728385
+>>> Command: False was not able to find answer from memory at 2019-05-19 13:52:17.728385
+>>> Command: Found from memory: False at 2019-05-19 13:52:17.728385
+>>> Command: Starting Mainline at 2019-05-19 13:52:41.850868
+>>> Command: Testing from memory at 2019-05-19 13:52:41.876374
+>>> Command: Searching Memory for: >>> at 2019-05-19 13:52:41.882417
+>>> Command: No Memory found for: >>> at 2019-05-19 13:52:41.883411
+>>> Command: Found in memory: False at 2019-05-19 13:52:41.885535
+>>> Command: False was not able to find answer from memory at 2019-05-19 13:52:41.886727
+>>> Command: Found from memory: False at 2019-05-19 13:52:41.889646
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-19 13:53:14.009342
+>>> Command: connection succesful at 2019-05-19 13:53:14.019160
+>>> Command: offline: True at 2019-05-19 13:53:14.025460
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-19 13:53:23.299151
+>>> Command: connection succesful at 2019-05-19 13:53:23.308427
+>>> Command: offline: True at 2019-05-19 13:53:23.310424
+>>> Command: Starting Mainline at 2019-05-19 13:53:33.557314
+>>> Command: Testing from memory at 2019-05-19 13:53:33.558667
+>>> Command: Searching Memory for: >>>HOW ARE YOU at 2019-05-19 13:53:33.562509
+>>> Command: Found: >>>HOW ARE YOU In Memory at the: 5 slot at 2019-05-19 13:53:33.570018
+>>> Command: Found in memory: 5 at 2019-05-19 13:53:33.577840
+>>> Command: True was able to find answer from memory at 2019-05-19 13:53:38.746569
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-19 14:04:32.942959
+>>> Command: connection succesful at 2019-05-19 14:04:32.952060
+>>> Command: offline: True at 2019-05-19 14:04:32.954056
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-19 14:04:47.354602
+>>> Command: connection succesful at 2019-05-19 14:04:47.363885
+>>> Command: offline: True at 2019-05-19 14:04:47.365881
+>>> Command: Starting Mainline at 2019-05-19 14:04:55.713983
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-19 14:05:34.743177
+>>> Command: connection succesful at 2019-05-19 14:05:34.751106
+>>> Command: offline: True at 2019-05-19 14:05:34.752137
+>>> Command: Starting Mainline at 2019-05-19 14:05:43.278079
+>>> Command: Testing from memory at 2019-05-19 14:05:45.084143
+>>> Command: Searching Memory for: >>>EXIT at 2019-05-19 14:05:45.087803
+>>> Command: Found: >>>EXIT In Memory at the: 12 slot at 2019-05-19 14:05:45.105444
+>>> Command: Found in memory: 12 at 2019-05-19 14:05:45.111689
+>>> Command: True was able to find answer from memory at 2019-05-19 14:05:53.034697
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-19 14:06:22.863767
+>>> Command: connection succesful at 2019-05-19 14:06:22.872473
+>>> Command: offline: True at 2019-05-19 14:06:22.874469
+>>> Command: Starting Mainline at 2019-05-19 14:06:38.673254
+>>> Command: Testing from memory at 2019-05-19 14:06:40.734912
+>>> Command: Searching Memory for: >>>WHAT IS A BACKPACK at 2019-05-19 14:06:40.735653
+>>> Command: No Memory found for: >>>WHAT IS A BACKPACK at 2019-05-19 14:06:40.735653
+>>> Command: Found in memory: False at 2019-05-19 14:06:40.760999
+>>> Command: False was not able to find answer from memory at 2019-05-19 14:06:40.760999
+>>> Command: Found from memory: False at 2019-05-19 14:06:40.776895
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-19 14:16:25.985733
+>>> Command: connection succesful at 2019-05-19 14:16:25.993854
+>>> Command: offline: True at 2019-05-19 14:16:25.994853
+>>> Command: Starting Mainline at 2019-05-19 14:16:35.271292
+>>> Command: Testing from memory at 2019-05-19 14:16:37.049792
+>>> Command: Searching Memory for: >>>EXIT at 2019-05-19 14:16:37.051271
+>>> Command: No Memory found for: >>>EXIT at 2019-05-19 14:16:37.060163
+>>> Command: Found in memory: False at 2019-05-19 14:16:37.069992
+>>> Command: False was not able to find answer from memory at 2019-05-19 14:16:37.080391
+>>> Command: Found from memory: False at 2019-05-19 14:16:37.080391
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-19 17:07:28.963257
+>>> Command: connection succesful at 2019-05-19 17:07:28.970560
+>>> Command: offline: True at 2019-05-19 17:07:28.974882
+>>> Command: Starting Mainline at 2019-05-19 17:07:35.825358
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-19 17:08:05.544453
+>>> Command: connection succesful at 2019-05-19 17:08:05.553076
+>>> Command: offline: True at 2019-05-19 17:08:05.555068
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-19 17:08:22.567831
+>>> Command: connection succesful at 2019-05-19 17:08:22.578512
+>>> Command: offline: True at 2019-05-19 17:08:22.580892
+>>> Command: Starting Mainline at 2019-05-19 17:08:28.319062
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-19 17:09:14.553483
+>>> Command: connection succesful at 2019-05-19 17:09:14.561438
+>>> Command: offline: True at 2019-05-19 17:09:14.568677
+>>> Command: Starting Mainline at 2019-05-19 17:09:20.344742
+>>> Command: Starting Mainline at 2019-05-19 17:09:29.383754
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-19 17:11:32.436726
+>>> Command: connection succesful at 2019-05-19 17:11:32.444287
+>>> Command: offline: True at 2019-05-19 17:11:32.451479
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-19 17:12:03.995946
+>>> Command: connection succesful at 2019-05-19 17:12:04.005471
+>>> Command: offline: True at 2019-05-19 17:12:04.007465
+>>> Command: Starting Mainline at 2019-05-19 17:13:14.146932
+>>> Command: Testing from memory at 2019-05-19 17:13:16.210174
+>>> Command: Searching Memory for: >>>HOW ARE YOU at 2019-05-19 17:13:16.211271
+>>> Command: Found: >>>HOW ARE YOU In Memory at the: 5 slot at 2019-05-19 17:13:16.224279
+>>> Command: Found in memory: 5 at 2019-05-19 17:13:16.237567
+>>> Command: True was able to find answer from memory at 2019-05-19 17:13:21.334615
+>>> Command: Starting Mainline at 2019-05-19 17:13:28.778868
+>>> Command: Testing from memory at 2019-05-19 17:13:30.878823
+>>> Command: Searching Memory for: >>>WHATS UP at 2019-05-19 17:13:30.879822
+>>> Command: No Memory found for: >>>WHATS UP at 2019-05-19 17:13:30.880819
+>>> Command: Found in memory: False at 2019-05-19 17:13:30.881819
+>>> Command: False was not able to find answer from memory at 2019-05-19 17:13:30.882845
+>>> Command: Found from memory: False at 2019-05-19 17:13:30.882845
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-19 17:20:05.765771
+>>> Command: connection succesful at 2019-05-19 17:20:05.773057
+>>> Command: offline: True at 2019-05-19 17:20:05.775085
+>>> Command: Starting Mainline at 2019-05-19 17:20:15.178431
+>>> Command: Testing from memory at 2019-05-19 17:20:17.057748
+>>> Command: Searching Memory for: >>>WHATS UP at 2019-05-19 17:20:17.059953
+>>> Command: No Memory found for: >>>WHATS UP at 2019-05-19 17:20:17.074347
+>>> Command: Found in memory: False at 2019-05-19 17:20:17.087401
+>>> Command: False was not able to find answer from memory at 2019-05-19 17:20:17.092007
+>>> Command: Found from memory: False at 2019-05-19 17:20:17.092007
+>>> Command: Starting Mainline at 2019-05-19 17:22:04.661594
+>>> Command: Testing from memory at 2019-05-19 17:22:06.566894
+>>> Command: Searching Memory for: >>>WHAT IS APPLE at 2019-05-19 17:22:06.566894
+>>> Command: Found: >>>WHAT IS APPLE In Memory at the: 11 slot at 2019-05-19 17:22:06.570886
+>>> Command: Found in memory: 11 at 2019-05-19 17:22:06.570886
+>>> Command: True was able to find answer from memory at 2019-05-19 17:22:16.244722
+>>> Command: Starting Mainline at 2019-05-19 17:22:31.678020
+>>> Command: Testing from memory at 2019-05-19 17:22:33.510513
+>>> Command: Searching Memory for: >>>HELLO at 2019-05-19 17:22:33.510513
+>>> Command: Found: >>>HELLO In Memory at the: 4 slot at 2019-05-19 17:22:33.514513
+>>> Command: Found in memory: 4 at 2019-05-19 17:22:33.515665
+>>> Command: True was able to find answer from memory at 2019-05-19 17:22:36.668266
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-19 17:24:14.646345
+>>> Command: connection succesful at 2019-05-19 17:24:14.653683
+>>> Command: offline: True at 2019-05-19 17:24:14.657061
+>>> Command: Starting Mainline at 2019-05-19 17:24:26.017049
+>>> Command: Testing from memory at 2019-05-19 17:24:26.018188
+>>> Command: Searching Memory for: >>>WHAT IS 3 + 3 at 2019-05-19 17:24:26.019217
+>>> Command: No Memory found for: >>>WHAT IS 3 + 3 at 2019-05-19 17:24:26.030110
+>>> Command: Found in memory: False at 2019-05-19 17:24:26.030110
+>>> Command: False was not able to find answer from memory at 2019-05-19 17:24:26.030110
+>>> Command: Found from memory: False at 2019-05-19 17:24:26.030110
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-19 17:28:41.188307
+>>> Command: connection succesful at 2019-05-19 17:28:41.196922
+>>> Command: offline: True at 2019-05-19 17:28:41.197921
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-20 10:18:37.390892
+>>> Command: offline: False at 2019-05-20 10:18:37.715722
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-20 10:19:17.103229
+>>> Command: offline: False at 2019-05-20 10:19:17.271132
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-20 10:20:15.596240
+>>> Command: offline: False at 2019-05-20 10:20:15.773128
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-20 10:21:38.732389
+>>> Command: offline: False at 2019-05-20 10:21:38.902275
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-21 07:57:37.467235
+>>> Command: offline: False at 2019-05-21 07:57:37.657126
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-21 08:04:16.882138
+>>> Command: connection succesful at 2019-05-21 08:04:17.092019
+>>> Command: offline: True at 2019-05-21 08:04:17.097017
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-21 08:10:29.166920
+>>> Command: connection succesful at 2019-05-21 08:10:29.384797
+>>> Command: offline: True at 2019-05-21 08:10:29.389810
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-21 08:10:48.166210
+>>> Command: connection succesful at 2019-05-21 08:10:48.369096
+>>> Command: offline: True at 2019-05-21 08:10:48.374092
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-21 08:15:55.979579
+>>> Command: connection succesful at 2019-05-21 08:15:56.194455
+>>> Command: offline: True at 2019-05-21 08:15:56.195454
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-21 08:20:06.011131
+>>> Command: connection succesful at 2019-05-21 08:20:06.218996
+>>> Command: offline: True at 2019-05-21 08:20:06.219993
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-21 08:20:22.182059
+>>> Command: connection succesful at 2019-05-21 08:20:22.389939
+>>> Command: offline: True at 2019-05-21 08:20:22.390939
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-05-21 08:21:12.645344
+>>> Command: connection succesful at 2019-05-21 08:21:12.854224
+>>> Command: offline: True at 2019-05-21 08:21:12.854224
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-03 17:32:07.687750
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-03 17:32:53.159137
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-03 17:33:23.949696
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-03 17:35:02.933754
+>>> Command: offline: False at 2019-06-03 17:35:06.132934
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-03 17:36:29.492620
+>>> Command: offline: False at 2019-06-03 17:36:32.665781
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-03 17:37:14.589373
+>>> Command: offline: False at 2019-06-03 17:37:17.826491
+>>> Command: Starting Mainline at 2019-06-03 17:37:24.385908
+>>> Command: Starting Mainline at 2019-06-03 17:37:48.000634
+>>> Command: Starting Mainline at 2019-06-03 17:37:49.674731
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-04 15:18:48.427972
+>>> Command: connection succesful at 2019-06-04 15:18:48.559884
+>>> Command: offline: True at 2019-06-04 15:18:48.560883
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-04 15:19:42.361229
+>>> Command: connection succesful at 2019-06-04 15:19:54.493452
+>>> Command: offline: True at 2019-06-04 15:19:54.494453
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-04 15:20:43.312406
+>>> Command: connection succesful at 2019-06-04 15:20:43.436327
+>>> Command: offline: True at 2019-06-04 15:20:43.437318
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-04 15:31:51.409783
+>>> Command: offline: False at 2019-06-04 15:31:54.601983
+>>> Command: Starting Mainline at 2019-06-04 15:32:00.920352
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-04 15:32:58.976254
+>>> Command: offline: False at 2019-06-04 15:33:02.179421
+>>> Command: Starting Mainline at 2019-06-04 15:33:20.865033
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-04 15:34:17.074062
+>>> Command: offline: False at 2019-06-04 15:34:20.276354
+>>> Command: Starting Mainline at 2019-06-04 15:34:25.208583
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-04 15:35:02.740296
+>>> Command: offline: False at 2019-06-04 15:35:05.923692
+>>> Command: Starting Mainline at 2019-06-04 15:35:09.888950
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-04 15:35:45.668524
+>>> Command: offline: False at 2019-06-04 15:35:48.851808
+>>> Command: Starting Mainline at 2019-06-04 15:35:54.144022
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-04 15:37:51.929784
+>>> Command: offline: False at 2019-06-04 15:37:55.097942
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-04 15:38:57.327860
+>>> Command: offline: False at 2019-06-04 15:39:00.529545
+>>> Command: Starting Mainline at 2019-06-04 15:39:02.936159
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-04 15:42:26.748512
+>>> Command: offline: False at 2019-06-04 15:42:29.934724
+>>> Command: Starting Mainline at 2019-06-04 15:42:32.141513
+>>> Command: Audio data <speech_recognition.AudioData object at 0x0000024897670EF0> at 2019-06-04 15:42:39.593485
+>>> Command: Audio data <speech_recognition.AudioData object at 0x0000024897670EF0> at 2019-06-04 15:42:51.915216
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-04 15:44:13.301278
+>>> Command: offline: False at 2019-06-04 15:44:16.478436
+>>> Command: Starting Mainline at 2019-06-04 15:44:18.638908
+>>> Command: Audio data <speech_recognition.AudioData object at 0x000001485352D048> at 2019-06-04 15:44:23.562796
+>>> Command: Audio data <speech_recognition.AudioData object at 0x0000014852BF5208> at 2019-06-04 15:44:32.082875
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-04 15:45:14.288152
+>>> Command: offline: False at 2019-06-04 15:45:17.465412
+>>> Command: Starting Mainline at 2019-06-04 15:45:19.683393
+>>> Command: Audio data <speech_recognition.AudioData object at 0x00000257DCFB80B8> at 2019-06-04 15:45:25.782808
+>>> Command: Using googleas recoognizer at 2019-06-04 15:45:25.782808
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-04 15:45:52.307500
+>>> Command: offline: False at 2019-06-04 15:45:55.467831
+>>> Command: Starting Mainline at 2019-06-04 15:45:57.621457
+>>> Command: Audio data <speech_recognition.AudioData object at 0x0000022EA3FCC080> at 2019-06-04 15:46:03.032258
+>>> Command: Using googlecloud as recoognizer at 2019-06-04 15:46:03.032258
+>>> Command: Audio data <speech_recognition.AudioData object at 0x0000022EA45E39B0> at 2019-06-04 15:46:11.686812
+>>> Command: Using googlecloud as recoognizer at 2019-06-04 15:46:11.686812
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-04 15:47:11.288032
+>>> Command: offline: False at 2019-06-04 15:47:14.488222
+>>> Command: Starting Mainline at 2019-06-04 15:47:16.656371
+>>> Command: Audio data <speech_recognition.AudioData object at 0x0000016DEB73E048> at 2019-06-04 15:47:22.221993
+>>> Command: Using googlecloud as recoognizer at 2019-06-04 15:47:22.222991
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-04 15:48:14.249255
+>>> Command: offline: False at 2019-06-04 15:48:17.464642
+>>> Command: Starting Mainline at 2019-06-04 15:48:19.631198
+>>> Command: Audio data <speech_recognition.AudioData object at 0x000002175F28C080> at 2019-06-04 15:48:24.792523
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-04 15:51:24.327157
+>>> Command: offline: False at 2019-06-04 15:51:27.525597
+>>> Command: Starting Mainline at 2019-06-04 15:51:29.680369
+>>> Command: Audio data <speech_recognition.AudioData object at 0x0000026D458CC048> at 2019-06-04 15:51:35.085289
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-04 15:52:29.561333
+>>> Command: offline: False at 2019-06-04 15:52:32.778609
+>>> Command: Starting Mainline at 2019-06-04 15:52:34.934371
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-04 15:53:06.392213
+>>> Command: offline: False at 2019-06-04 15:53:09.558509
+>>> Command: Starting Mainline at 2019-06-04 15:53:11.722263
+>>> Command: ---------------STARTED NEW RUN OF PROGRAM---------------- at 2019-06-04 15:53:45.759882
+>>> Command: offline: False at 2019-06-04 15:53:48.921191
+>>> Command: Starting Mainline at 2019-06-04 15:53:51.157751
+>>> Command: Audio data <speech_recognition.AudioData object at 0x000001C407CEB080> at 2019-06-04 15:53:56.052320
